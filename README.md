@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hello 👋
 
-<!--
-**TestUhm/TestUhm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to TestUhm Github !
 
-Here are some ideas to get you started:
+I am interested in and studying software testing theory.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Even though I may not have the capabilities right now, I will work hard and achieve it.
+
+When I feel stressed, I spend time singing or going for a light walk. 🎤🏃🏻‍♂️
+
+## 📢 Profile
+- Uhm Hyeon-kyo
+- Department of Information and Communication Major
+- pong123123@naver.com
+
+
+## 📚 Certificate
+- ISTQB Foundation Level
+- Engineer Information Processing
+
+## 📋 Portfolio
+<!--   [![이미지 이름](이미지 주소.png/jpg)](링크URL)   -->
+
+
