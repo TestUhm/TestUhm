@@ -15,7 +15,7 @@ When I feel stressed, I spend time singing or going for a light walk. 🎤🏃�
 
 
 ## 📚 Certificate
-- ISTQB Foundation Level
+
 - Engineer Information Processing
 
 ## 📋 Portfolio
